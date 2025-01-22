@@ -3,6 +3,7 @@ public with sharing class irfanApexClass {
         account a=new account ();
         a.name="rupali";
         a.name="Irfan";
-        
+        a.name="james";
+
     }
 }
